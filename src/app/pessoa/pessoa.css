@@ -1,0 +1,19 @@
+.cartao {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 12px;
+  max-width: 500px;
+}
+
+.cartao h3 {
+  margin-top: 0;
+}
+
+.cartao p {
+  margin: 6px 0;
+}
+
+.cartao small {
+  font-weight: bold;
+}
